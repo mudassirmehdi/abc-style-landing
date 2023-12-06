@@ -609,7 +609,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 48px;
 }
 
-.book-product .product-content .product-btn {
+.book-product   .product-btn {
     margin-right: 23px;
     text-decoration: none;
     color: #fff;
@@ -998,7 +998,7 @@ footer .footer-bottom p a {
         display: none;
     }
 
-    .book-product .product-content .product-btn {
+    .book-product   .product-btn {
         margin-right: 0;
         text-decoration: none;
         color: #fff;
