@@ -1092,6 +1092,10 @@ footer .footer-bottom p a {
         margin-top: 100px;
     }
 
+    .book-product .product-image img {
+        width: 90% !important;
+    }
+
     footer .footer-top .footer-content h3 {
         font-size: 48px;
     }
