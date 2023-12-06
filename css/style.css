@@ -620,7 +620,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .book-product .product-image .arrow {
     position: absolute;
-    left: -5%; 
+    left: 15%; 
     bottom: -4%;
 } 
 
