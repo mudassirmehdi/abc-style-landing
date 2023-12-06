@@ -612,6 +612,7 @@ h1, h2, h3, h4, h5, h6 {
 .book-product .product-content .product-btn {
     margin-right: 23px;
     text-decoration: none;
+    color: #fff;
 }
 
 .book-product .product-image {
@@ -1000,6 +1001,7 @@ footer .footer-bottom p a {
     .book-product .product-content .product-btn {
         margin-right: 0;
         text-decoration: none;
+        color: #fff;
 
     }
 
